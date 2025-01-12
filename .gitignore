@@ -3,10 +3,13 @@
 *.bcf
 *.blg
 *.fdb_latexmk
+*.gz
 *.lof
 *.lot
 *.log
 *.out
-*.out
 *.xml
 *.toc
+*.fls
+*.nav
+*.snm
